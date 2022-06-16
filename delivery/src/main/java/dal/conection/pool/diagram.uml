@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="278.0" y="330.0">dal.dao.impl.JDBCAbstractGenericDao</node>
+    <node x="19.5" y="330.0">dal.conection.ConnectionProxy</node>
+    <node x="0.0" y="85.0">dal.conection.pool.impl.TransactionalConnectionPoolImpl</node>
+    <node x="19.5" y="165.0">dal.conection.pool.TransactionalManager</node>
+    <node x="19.5" y="0.0">dal.conection.pool.TransactionalConnectionPool</node>
+    <node x="0.0" y="415.0">dal.conection.ConnectionProxyImpl</node>
+    <node x="0.0" y="250.0">dal.conection.pool.impl.TransactionalManagerImpl</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="dal.conection.pool.impl.TransactionalConnectionPoolImpl" target="dal.conection.pool.TransactionalConnectionPool">
+      <point x="0.0" y="-17.5" />
+      <point x="0.0" y="17.5" />
+    </edge>
+    <edge source="dal.conection.pool.impl.TransactionalManagerImpl" target="dal.conection.pool.TransactionalManager">
+      <point x="0.0" y="-17.5" />
+      <point x="0.0" y="17.5" />
+    </edge>
+    <edge source="dal.conection.ConnectionProxyImpl" target="dal.conection.ConnectionProxy">
+      <point x="0.0" y="-17.5" />
+      <point x="0.0" y="17.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="110.66666666666663" y="101.49999999999997" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

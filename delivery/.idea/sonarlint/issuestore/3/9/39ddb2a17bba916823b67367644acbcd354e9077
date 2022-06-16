@@ -1,0 +1,12 @@
+
+N
+java:S1068"8Remove this unused "distanceInKilometres" private field.(Ç™çì
+I
+java:S1068".Remove this unused "deliveries" private field.(‹’Áôûÿÿÿÿ
+R
+java:S1068"<Remove this unused "priceForKilometerInCents" private field.(˜Ç«Æ
+V	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(²ê¢‘
+I
+java:S1068"3Remove this unused "timeOnWayInDays" private field.(¢Çİº
+D
+java:S1068".Remove this unused "wayTariffs" private field.(éøá¬

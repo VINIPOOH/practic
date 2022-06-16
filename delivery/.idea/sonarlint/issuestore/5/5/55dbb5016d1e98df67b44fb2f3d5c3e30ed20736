@@ -1,0 +1,14 @@
+
+O
+java:S1068"9Remove this unused "credentialsNonExpired" private field.(‚‡Ëù
+P
+java:S1068":Remove this unused "waysWhereThisUserIsGet" private field.(‹ï›´
+A
+java:S1068"+Remove this unused "enabled" private field.(­ÀåÛ
+K
+java:S1068"5Remove this unused "accountNonExpired" private field.(©Ò’­
+I
+java:S1068"4Remove this unused "accountNonLocked" private field.(æèÎ>
+W	java:S107"BConstructor has 11 parameters, which is greater than 7 authorized.(•ğÜİ
+Q
+java:S1068";Remove this unused "waysWhereThisUserIsSend" private field.(õÁ‚ 

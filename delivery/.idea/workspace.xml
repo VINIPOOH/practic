@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="frame-servlett:war exploded" />
+      <artifact name="ua.testing:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:maven" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:delivery" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5057a84-f977-4e22-9973-4c48b01972c0" name="Default Changelist" comment="mvn corrected" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="trainingdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aTan0lhk1v9j9C47S1dhfDtIcQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.16556293" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="web.comand.impl" />
+      <recent name="infrastructure" />
+      <recent name="exeptions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\Projects\GitHub\ServletFinalProject\delivery\src\main\resources" />
+      <recent name="B:\Projects\GitHub\ServletFinalProject\delivery\src\main\java\web\dto" />
+      <recent name="B:\Projects\GitHub\ServletFinalProject\delivery\src\main\webapp\WEB-INF\user" />
+      <recent name="B:\Projects\GitHub\ServletFinalProject\delivery" />
+      <recent name="B:\Projects\GitHub\ServletFinalProject\frame-servlet\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\Projects\GitHub\ServletFinalProject\delivery\src\main\webapp\WEB-INF" />
+      <recent name="B:\Projects\GitHub\ServletFinalProject\delivery\src\main\webapp\js" />
+      <recent name="B:\Projects\GitHub\ServletFinalProject\delivery\src\main\webapp" />
+      <recent name="B:\Projects\GitHub\-brick_for_final_-project\frame-servlet\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="eczaples.adapter" />
+      <recent name="facktrory" />
+      <recent name="infrastructure" />
+      <recent name="web.comand.impl" />
+      <recent name="controller.comand.action.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.34">
+    <configuration name="DispatcherServlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="web.DispatcherServlet" />
+      <module name="delivery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionalManagerImplTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="dal.conection.pool.impl.TransactionalManagerImplTest" />
+      <module name="delivery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dal.conection.pool.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in delivery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="delivery" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in ua.testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ua.testing" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionProxyConfiguratorTest.replaceWithProxyIfNeededWhereNoInterfaceAllCorrectInClassNoTransactionVoids" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ua.testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="infrastructure.factory.сonfigurator.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="infrastructure.factory.сonfigurator.proxy" />
+      <option name="MAIN_CLASS_NAME" value="infrastructure.factory.сonfigurator.proxy.TransactionProxyConfiguratorTest" />
+      <option name="METHOD_NAME" value="replaceWithProxyIfNeededWhereNoInterfaceAllCorrectInClassNoTransactionVoids" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="delivery" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="delivery" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.34" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/delivery" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ua.testing:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ua_testing_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_34_frame-servlet" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57140" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="delivery:war exploded" />
+          <artifact name="frame-servlett:war exploded" />
+          <artifact name="ua.testing:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SQLScriptSettings">
+    <option name="matrix">
+      <map>
+        <entry key="MYSQL.CreateComplete" value="UseSurrogates=1, CreateIfNotExists=1" />
+        <entry key="MYSQL.CreateDefinition" value="CreateIfNotExists=1" />
+      </map>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5057a84-f977-4e22-9973-4c48b01972c0" name="Default Changelist" comment="" />
+      <created>1586762200165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586762200165</updated>
+      <workItem from="1586762205935" duration="30587000" />
+      <workItem from="1586845261901" duration="22598000" />
+      <workItem from="1586876223373" duration="3445000" />
+      <workItem from="1586885764803" duration="3446000" />
+      <workItem from="1587031042695" duration="3536000" />
+      <workItem from="1587039433123" duration="21509000" />
+      <workItem from="1587109092295" duration="29061000" />
+      <workItem from="1587481501845" duration="7118000" />
+      <workItem from="1587805036168" duration="3037000" />
+      <workItem from="1587972425646" duration="2235000" />
+      <workItem from="1587974932082" duration="1696000" />
+      <workItem from="1587976668253" duration="2896000" />
+      <workItem from="1587979790262" duration="267000" />
+      <workItem from="1587980406663" duration="12362000" />
+      <workItem from="1588054345225" duration="24390000" />
+      <workItem from="1588150597888" duration="13397000" />
+      <workItem from="1588232227921" duration="15559000" />
+      <workItem from="1588266096721" duration="235000" />
+      <workItem from="1588316373563" duration="14871000" />
+      <workItem from="1588340867544" duration="1240000" />
+      <workItem from="1588342893071" duration="1200000" />
+      <workItem from="1588402688875" duration="19251000" />
+      <workItem from="1588491952642" duration="5914000" />
+      <workItem from="1588497933559" duration="1556000" />
+      <workItem from="1588507217671" duration="7775000" />
+      <workItem from="1588581961310" duration="6673000" />
+      <workItem from="1588594528373" duration="12147000" />
+      <workItem from="1588612051181" duration="241000" />
+      <workItem from="1593677002747" duration="87000" />
+      <workItem from="1593677179403" duration="19257000" />
+      <workItem from="1593699742086" duration="2632000" />
+      <workItem from="1593756516454" duration="10253000" />
+      <workItem from="1593767824941" duration="7754000" />
+      <workItem from="1593781174841" duration="1252000" />
+      <workItem from="1594116428370" duration="302000" />
+      <workItem from="1594116759018" duration="16211000" />
+      <workItem from="1594138327824" duration="6611000" />
+      <workItem from="1594199035368" duration="4009000" />
+      <workItem from="1594395337096" duration="2006000" />
+      <workItem from="1594574651848" duration="1329000" />
+      <workItem from="1594644841541" duration="720000" />
+      <workItem from="1594646918329" duration="26000" />
+      <workItem from="1594655650996" duration="1414000" />
+      <workItem from="1594657296138" duration="415000" />
+      <workItem from="1594657867533" duration="1234000" />
+      <workItem from="1594659214378" duration="1796000" />
+      <workItem from="1594662025328" duration="2679000" />
+      <workItem from="1594671460376" duration="448000" />
+      <workItem from="1594671938094" duration="945000" />
+      <workItem from="1594707893375" duration="4705000" />
+      <workItem from="1595068111740" duration="651000" />
+      <workItem from="1595664653761" duration="282000" />
+      <workItem from="1595664970957" duration="1852000" />
+      <workItem from="1595667056452" duration="441000" />
+      <workItem from="1595667520075" duration="147000" />
+      <workItem from="1595667702831" duration="167000" />
+      <workItem from="1595667894237" duration="360000" />
+      <workItem from="1595668287292" duration="107000" />
+      <workItem from="1595668468746" duration="556000" />
+      <workItem from="1595669066029" duration="171000" />
+      <workItem from="1595669258822" duration="64000" />
+      <workItem from="1595669347807" duration="106000" />
+      <workItem from="1595669498484" duration="49000" />
+      <workItem from="1595669604935" duration="105000" />
+      <workItem from="1595669737735" duration="100000" />
+      <workItem from="1595669866935" duration="218000" />
+      <workItem from="1595670114615" duration="57000" />
+      <workItem from="1595670197555" duration="85000" />
+      <workItem from="1595670313328" duration="159000" />
+      <workItem from="1595670498626" duration="133000" />
+      <workItem from="1595670658574" duration="169000" />
+      <workItem from="1595670856215" duration="298000" />
+      <workItem from="1595671184407" duration="39000" />
+      <workItem from="1595671249368" duration="100000" />
+      <workItem from="1595671378688" duration="174000" />
+      <workItem from="1595671583185" duration="119000" />
+      <workItem from="1595671732423" duration="248000" />
+      <workItem from="1595672006781" duration="606000" />
+      <workItem from="1595684963037" duration="657000" />
+      <workItem from="1596809813807" duration="742000" />
+      <workItem from="1598786818231" duration="1317000" />
+      <workItem from="1599208149189" duration="629000" />
+      <workItem from="1600263020621" duration="598000" />
+      <workItem from="1600331157422" duration="39000" />
+      <workItem from="1601375290119" duration="434000" />
+      <workItem from="1601627485958" duration="3178000" />
+      <workItem from="1601753000530" duration="737000" />
+      <workItem from="1601795604644" duration="776000" />
+      <workItem from="1602233143591" duration="769000" />
+      <workItem from="1602573898679" duration="197000" />
+      <workItem from="1602574122366" duration="234000" />
+      <workItem from="1605176642240" duration="1266000" />
+      <workItem from="1605624626169" duration="69000" />
+      <workItem from="1606301967974" duration="2597000" />
+      <workItem from="1606557245457" duration="48000" />
+      <workItem from="1607359616579" duration="8108000" />
+      <workItem from="1607420192371" duration="110000" />
+      <workItem from="1608021409108" duration="707000" />
+      <workItem from="1608907101699" duration="2385000" />
+      <workItem from="1616258250058" duration="812000" />
+      <workItem from="1619344993594" duration="1190000" />
+      <workItem from="1621536929055" duration="193000" />
+      <workItem from="1621537146166" duration="828000" />
+      <workItem from="1621538975736" duration="664000" />
+      <workItem from="1621542034459" duration="325000" />
+      <workItem from="1621667268280" duration="170000" />
+      <workItem from="1621771378647" duration="4821000" />
+      <workItem from="1621843636928" duration="7191000" />
+      <workItem from="1621926496397" duration="1499000" />
+      <workItem from="1622270636102" duration="5982000" />
+      <workItem from="1622629519170" duration="2743000" />
+      <workItem from="1623219503593" duration="39000" />
+      <workItem from="1623851702496" duration="50000" />
+      <workItem from="1638118164916" duration="961000" />
+      <workItem from="1638260529304" duration="1614000" />
+      <workItem from="1638710197831" duration="88000" />
+      <workItem from="1639119059527" duration="1014000" />
+      <workItem from="1639143320389" duration="594000" />
+      <workItem from="1639911161702" duration="2569000" />
+      <workItem from="1640003205632" duration="808000" />
+      <workItem from="1640157829724" duration="108000" />
+      <workItem from="1640165606638" duration="1293000" />
+      <workItem from="1640602808001" duration="837000" />
+      <workItem from="1640603684389" duration="630000" />
+      <workItem from="1642411427280" duration="3534000" />
+      <workItem from="1649251137648" duration="691000" />
+      <workItem from="1649256185665" duration="178000" />
+      <workItem from="1649256384578" duration="750000" />
+      <workItem from="1649496502672" duration="2535000" />
+      <workItem from="1653844241430" duration="625000" />
+    </task>
+    <task id="LOCAL-00018" summary="Initialize delivery logic is added.">
+      <created>1588166331000</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1588166331000</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Pay delivery logic is added.">
+      <created>1588320751786</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1588320751786</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Delivery get logic is done">
+      <created>1588325007167</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1588325007167</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Statistic work with wrong encoding">
+      <created>1588329150646</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1588329150646</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Start rebuild dal">
+      <created>1588342109944</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1588342109944</updated>
+    </task>
+    <task id="LOCAL-00023" summary="DeliveryDao corrected under three layer architecture.">
+      <created>1588406634345</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1588406634345</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Entity replaced in correct package &quot;dal&quot;.">
+      <created>1588407489848</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1588407489848</updated>
+    </task>
+    <task id="LOCAL-00025" summary="services and dtos interconnected with them replaced in &quot;bll&quot; package.">
+      <created>1588407713267</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1588407713267</updated>
+    </task>
+    <task id="LOCAL-00026" summary="WayDao corrected under three layer architecture.">
+      <created>1588409163387</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1588409163387</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Separated dto from bll layer to bll and client layer">
+      <created>1588409721391</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1588409721391</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Validation replaced to web Dto">
+      <created>1588409891867</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1588409891867</updated>
+    </task>
+    <task id="LOCAL-00029" summary="commit">
+      <created>1588423004975</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588423004976</updated>
+    </task>
+    <task id="LOCAL-00030" summary="validation is replace corrected">
+      <created>1588493936683</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588493936683</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Correct bll mapping">
+      <created>1588494384309</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1588494384309</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Created Bll layer api">
+      <created>1588495293218</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1588495293218</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Changed use bll classes on interfaces">
+      <created>1588495898027</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1588495898027</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Changed use bll classes on interfaces">
+      <created>1588496445387</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1588496445387</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Mappers classes replaced by lambdas">
+      <created>1588497284352</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1588497284352</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Cleanup">
+      <created>1588497345351</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1588497345351</updated>
+    </task>
+    <task id="LOCAL-00037" summary="dal cleanup">
+      <created>1588497429514</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1588497429514</updated>
+    </task>
+    <task id="LOCAL-00038" summary="corrected inheritance in web command">
+      <created>1588497632314</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1588497632314</updated>
+    </task>
+    <task id="LOCAL-00039" summary="web cleanup">
+      <created>1588497708553</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1588497708553</updated>
+    </task>
+    <task id="LOCAL-00040" summary="bill transaction">
+      <created>1588513537723</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1588513537723</updated>
+    </task>
+    <task id="LOCAL-00041" summary="delivery initiation transaction added">
+      <created>1588516210519</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1588516210519</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Merge requests from a delivery initialization transaction.">
+      <created>1588516779535</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1588516779535</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Transaction manager created need refactor it ugly.">
+      <created>1588588705068</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1588588705068</updated>
+    </task>
+    <task id="LOCAL-00044" summary="first refactor step with transactional manager">
+      <created>1588596086920</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1588596086920</updated>
+    </task>
+    <task id="LOCAL-00045" summary="second refactor step with transactional manager">
+      <created>1588597030853</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1588597030853</updated>
+    </task>
+    <task id="LOCAL-00046" summary="3 refactor step with transactional manager">
+      <created>1588598267915</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1588598267915</updated>
+    </task>
+    <task id="LOCAL-00047" summary="refactor with transactional manager done">
+      <created>1588601117724</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1588601117724</updated>
+    </task>
+    <task id="LOCAL-00048" summary="try is success">
+      <created>1588608505397</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1588608505397</updated>
+    </task>
+    <task id="LOCAL-00049" summary="first step to add js done. web.xml fixed">
+      <created>1593693317109</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1593693317109</updated>
+    </task>
+    <task id="LOCAL-00050" summary="empty command work corrected">
+      <created>1593693601637</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1593693601638</updated>
+    </task>
+    <task id="LOCAL-00051" summary="corrected work with root mapping">
+      <created>1593694375008</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1593694375008</updated>
+    </task>
+    <task id="LOCAL-00052" summary="corrected work with root web.xml">
+      <created>1593694712632</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1593694712632</updated>
+    </task>
+    <task id="LOCAL-00053" summary="counter corrected">
+      <created>1593698632359</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1593698632359</updated>
+    </task>
+    <task id="LOCAL-00054" summary="dynamic loading localities get by locality send done">
+      <created>1593770838386</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1593770838386</updated>
+    </task>
+    <task id="LOCAL-00055" summary="db creation script corrected">
+      <created>1593772348974</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1593772348974</updated>
+    </task>
+    <task id="LOCAL-00056" summary="dynamic locality load script done">
+      <created>1593773868812</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1593773868812</updated>
+    </task>
+    <task id="LOCAL-00057" summary="dynamic locality load script renamed and added to delivery initiation page">
+      <created>1593774238228</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1593774238228</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Documentation stared infrastructure mistakes fixed">
+      <created>1594132492135</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1594132492135</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Cleanup">
+      <created>1594133157224</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1594133157224</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Grammar corrected">
+      <created>1594134352960</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1594134352961</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Documentation finished">
+      <created>1594145310004</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1594145310005</updated>
+    </task>
+    <task id="LOCAL-00062" summary="architecture cleanup">
+      <created>1594199680679</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1594199680679</updated>
+    </task>
+    <task id="LOCAL-00063" summary="architecture cleanup">
+      <created>1594200136626</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1594200136626</updated>
+    </task>
+    <task id="LOCAL-00064" summary="architecture cleanup">
+      <created>1594200360641</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1594200360641</updated>
+    </task>
+    <task id="LOCAL-00065" summary="mvn corrected">
+      <created>1594657429784</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1594657429785</updated>
+    </task>
+    <task id="LOCAL-00066" summary="mvn corrected">
+      <created>1594662678004</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1594662678005</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ukrainlocalization" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="TryCreateUniversalTransactionWork" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/RebuildDAL" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="web cleanup" />
+    <MESSAGE value="bill transaction" />
+    <MESSAGE value="delivery initiation transaction added" />
+    <MESSAGE value="Merge requests from a delivery initialization transaction." />
+    <MESSAGE value="Transaction manager created need refactor it ugly." />
+    <MESSAGE value="first refactor step with transactional manager" />
+    <MESSAGE value="second refactor step with transactional manager" />
+    <MESSAGE value="3 refactor step with transactional manager" />
+    <MESSAGE value="refactor with transactional manager done" />
+    <MESSAGE value="try is success" />
+    <MESSAGE value="first step to add js done. web.xml fixed" />
+    <MESSAGE value="empty command work corrected" />
+    <MESSAGE value="corrected work with root mapping" />
+    <MESSAGE value="corrected work with root web.xml" />
+    <MESSAGE value="counter corrected" />
+    <MESSAGE value="dynamic loading localities get by locality send done" />
+    <MESSAGE value="db creation script corrected" />
+    <MESSAGE value="dynamic locality load script done" />
+    <MESSAGE value="dynamic locality load script renamed and added to delivery initiation page" />
+    <MESSAGE value="Documentation stared infrastructure mistakes fixed" />
+    <MESSAGE value="Cleanup" />
+    <MESSAGE value="Grammar corrected" />
+    <MESSAGE value="Documentation finished" />
+    <MESSAGE value="architecture cleanup" />
+    <MESSAGE value="mvn corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="mvn corrected" />
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

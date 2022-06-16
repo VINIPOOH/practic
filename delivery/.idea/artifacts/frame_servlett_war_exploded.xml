@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="frame-servlett:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/frame_servlett_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="frame-servlett/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="frame-servlett" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
